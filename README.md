@@ -41,3 +41,16 @@ pip install --upgrade pip
 ```
 pip install -r requirements.txt
 ```
+
+## Get your OpenAI API key
+https://platform.openai.com/api-keys
+
+## Create a .env file
+```
+OPENAI_API_KEY=<replace with your OpenAI API key>
+```
+
+## Run the script
+```
+python main.py
+```
