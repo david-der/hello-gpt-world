@@ -15,6 +15,8 @@ brew install python
 ## Clone the repository
 ```
 git clone https://github.com/david-der/hello-gpt-world.git
+
+cd hello-gpt-world
 ```
 
 ## Make a venv
